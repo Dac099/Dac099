@@ -9,4 +9,3 @@ The Front-end seems fascinating to me, simply the effect of being able to visual
 
 The back-end seems wonderful to me, since I can't imagine something as rewarding as being able to implement good development techniques that allow the development of business ideas.
 
-![Web-developer](https://user-images.githubusercontent.com/67847672/165232648-dfd2b614-86ab-4464-aa85-6e42f1d7579a.png)
